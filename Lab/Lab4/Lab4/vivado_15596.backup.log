@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Oct  8 19:45:05 2020
+# Process ID: 15596
+# Current directory: D:/SJTU/Summer 2020(Sophomore)/Ve270/Lab/Lab4/Lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2556 D:\SJTU\Summer 2020(Sophomore)\Ve270\Lab\Lab4\Lab4\Lab4.xpr
+# Log file: D:/SJTU/Summer 2020(Sophomore)/Ve270/Lab/Lab4/Lab4/vivado.log
+# Journal file: D:/SJTU/Summer 2020(Sophomore)/Ve270/Lab/Lab4/Lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  8 19:46:06 2020...

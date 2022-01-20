@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jun 18 12:54:59 2020
+# Process ID: 2400
+# Current directory: C:/Users/James Xia/Desktop/Lab4/Lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6644 C:\Users\James Xia\Desktop\Lab4\Lab4\Lab4.xpr
+# Log file: C:/Users/James Xia/Desktop/Lab4/Lab4/vivado.log
+# Journal file: C:/Users/James Xia/Desktop/Lab4/Lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source simu.tcl
+close_sim

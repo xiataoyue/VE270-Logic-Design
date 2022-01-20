@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jul  2 13:26:18 2020
+# Process ID: 20992
+# Current directory: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7732 C:\Users\James Xia\Desktop\Ve270\Lab5\Lab5\Lab5.xpr
+# Log file: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5/vivado.log
+# Journal file: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5/Lab5.xpr}
+update_compile_order -fileset sources_1

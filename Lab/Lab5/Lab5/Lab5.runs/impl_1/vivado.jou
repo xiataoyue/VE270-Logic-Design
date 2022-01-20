@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri Jul  3 13:15:48 2020
+# Process ID: 7964
+# Current directory: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5/Lab5.runs/impl_1
+# Command line: vivado.exe -log lab5.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab5.tcl -notrace
+# Log file: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5/Lab5.runs/impl_1/lab5.vdi
+# Journal file: C:/Users/James Xia/Desktop/Ve270/Lab5/Lab5/Lab5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lab5.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/James Xia/Desktop/Lab7/Lab7/Lab7.srcs/sources_1/new/Lab7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/James Xia/Desktop/Lab7/Lab7/Lab7.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim

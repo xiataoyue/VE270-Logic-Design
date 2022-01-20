@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri Jul 31 14:10:09 2020
+# Process ID: 12736
+# Current directory: C:/Users/James Xia/Desktop/Lab7/Lab7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3096 C:\Users\James Xia\Desktop\Lab7\Lab7\Lab7.xpr
+# Log file: C:/Users/James Xia/Desktop/Lab7/Lab7/vivado.log
+# Journal file: C:/Users/James Xia/Desktop/Lab7/Lab7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/James Xia/Desktop/Lab7/Lab7/Lab7.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2019.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul 31 14:12:51 2020...

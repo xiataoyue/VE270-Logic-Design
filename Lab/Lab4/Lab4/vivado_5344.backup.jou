@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri Jun 19 04:30:52 2020
+# Process ID: 5344
+# Current directory: C:/Users/James Xia/Desktop/Lab4/Lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2284 C:\Users\James Xia\Desktop\Lab4\Lab4\Lab4.xpr
+# Log file: C:/Users/James Xia/Desktop/Lab4/Lab4/vivado.log
+# Journal file: C:/Users/James Xia/Desktop/Lab4/Lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.xpr}
+update_compile_order -fileset sources_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.runs/impl_1/Counter.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.runs/impl_1/Counter.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.runs/impl_1/Counter.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]

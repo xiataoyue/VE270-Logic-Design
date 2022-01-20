@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Wed Jun 17 23:27:37 2020
+# Process ID: 24404
+# Current directory: C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.sim/sim_1/behav/xsim/xsim.dir/simu_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/James Xia/Desktop/Lab4/Lab4/Lab4.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/James -notrace
+couldn't read file "C:/Users/James": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Wed Jun 17 23:27:37 2020...
